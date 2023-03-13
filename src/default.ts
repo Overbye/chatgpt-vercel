@@ -8,6 +8,6 @@ export const defaultSetting = {
 
 export const defaultMessage = `
 欢迎使用ChatGPT
-- Shift + Enter 换行。
+- 按 Shift + Enter 进行换行。
 - 开头输入 / 或者 空格 搜索 Prompt 预设。
 - 点击输入框滚动到底部。`
